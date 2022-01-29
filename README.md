@@ -4,7 +4,7 @@ Telegram bot built using python-telegram-bot that links people with leftovers to
 
 ## Getting Started
 1. Create a Telegram bot using the command /newbot with [BotFather](https://t.me/botfather). Get the API key of your bot.
-![alt text](https://miro.medium.com/max/1266/1*XxKPtfrohg3GX5Sq18w-NA.png "Chat with BotFather")
+<!-- ![alt text](https://miro.medium.com/max/1266/1*XxKPtfrohg3GX5Sq18w-NA.png "Chat with BotFather") -->
 2. Create a Telegram channel.
 3. Download the three files in this repo: bot.py (containing your python code for the Telegram bot), requirements.txt (containing the python libraries to be installed), and Procfile (containing the command to execute the python file).
 4. Modify the line in the bot.py file `'TOKEN = 'YOURTELEGRAMBOTTOKEN'` to the API key of your bot, and the `chat_id = 'YOURTELEGRAMCHANNEL'` to the link of your Telegram channel.
