@@ -76,3 +76,6 @@ Our automated bot will collect the information about the food and will display i
 
 ## Demo Link
 https://youtu.be/W12iRBP2Ieo
+
+## Presentation Link
+https://youtu.be/GeZ6NNe6sLs
