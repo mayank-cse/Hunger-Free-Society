@@ -67,9 +67,13 @@ Our automated bot will collect the information about the food and will display i
 ## V.	SOCIAL RELEVANCE
 
 •	Feeding needy and in-distress people by surplus food (both pre-packaged and fresh and cooked food) recovered through standard safety procedures and promote innovation in surplus food recovery and distribution.
+
 •	To sensitize people about food waste through facilitating standardized food waste auditing methods and to provide alternative solutions for spoiled or wasted food.
+
 •	Raise awareness about food loss and food wastage amongst citizens and bring about behavioral change in them to prevent food waste through guidance and good practices.
+
 •	Raise awareness amongst food businesses by encouraging them to adopt best practices to reduce food loss and food waste in their supply chain, production and distribution cycle.
+
 •	Provide policy, strategy and program support for food loss and waste reduction initiatives through coordinated efforts.
 
 ## VI.     SCALABILITY
