@@ -41,10 +41,13 @@ We can float the images of food as well as location in our social media handles,
 
 A.	Technology for Humanity
 With this idea we really feel that the dream of a hunger-free world can be achieved.
+
 B.	Upliftment of Covid Affected Industries
 After the impact of Covid-19, many workers from various industries have lost their jobs and don’t have enough money to afford even one time meal. Our idea can support them.
+
 C.	AI and ML for futuristic Innovation
 We will be using upcoming technologies like Cloud Computing and Blockchain in order to run our automated bot and the website efficiently.
+
 D.	 Hunger-free World and Zero Food Waste.
 
 ## III.	BASIC IDEA
