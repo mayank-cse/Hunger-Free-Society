@@ -85,4 +85,6 @@ Our automated bot will collect the information about the food and will display i
 https://youtu.be/W12iRBP2Ieo
 
 ## Presentation Link
-https://youtu.be/GeZ6NNe6sLs
+<a href = "https://youtu.be/GeZ6NNe6sLs"> <img width="684" alt="image" src="https://github.com/mayank-cse/Hunger-Free-Society/assets/72187020/0fc60fc0-f94a-4177-82b1-f6efdf39f982">
+</a>
+
